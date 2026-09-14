@@ -1,1 +1,1 @@
-# elite-case
+ELITE CASE - Site e-commerce starter
